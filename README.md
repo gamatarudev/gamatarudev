@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a self-taught programmer and cybersecurity ent
 
 
 ### About Me
-- 👨‍💻 Self-taught coder.
-- 🎓 Currently Mastering in Software Engineering.
+- 👨‍💻Passionate self-learner, constantly expanding my coding horizons.
+- 🎓 ? University's is for those who don't understand the power of modern world.
 - 🌱 Continuously expanding my skill set across various languages and trying to give big contribution to this ultraverse.
 
 ### Socials
@@ -26,6 +26,3 @@ Connect with me on these platforms:
     <img src="https://skillicons.dev/icons?i=rust,cpp,java,bash,unreal,python,htmx,lua,androidstudio,linux" />
   </a>
 </p>
-gamatarudev/gamatarudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
