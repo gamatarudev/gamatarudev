@@ -5,7 +5,7 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a self-taught programmer and cybersecurity enthusiast known by the alias XCode.<br>
+Welcome to my GitHub profile! I'm a self-taught programmer and cybersecurity enthusiast known by the alias GAMATARUdev.<br>
 <a href="https://t.me/GAMATARU">
 </a>
 
