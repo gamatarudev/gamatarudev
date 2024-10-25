@@ -23,7 +23,7 @@ Connect with me on these platforms:
 ### Skills & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,bash,disassembly,python,xml,lua" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,java,bash,unreal,python,xml,htmx,lua,androidstudio,linux" />
   </a>
 </p>
 gamatarudev/gamatarudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
